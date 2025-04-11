@@ -8,7 +8,6 @@ An interactive U.S. geography quiz built with Python and Turtle graphics. The us
 - [How it Works](#how-it-works)
 - [Technologies Used](#technologies-used)
 - [Lessons Learned](#lessons-learned)
-- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
@@ -21,8 +20,7 @@ It’s a great demonstration of combining data handling with interactive graphic
 1. **Start the Game**: Run the `main.py` file.
 2. **Guess the State**: A popup input appears asking for the name of a U.S. state.
 3. **Correct Guesses**: If the guess is valid, the state's name is written on the map at its correct location.
-4. **Exit Option**: Typing `Exit` ends the game and creates a CSV file with the states you missed.
-5. **Completion**: The game ends automatically when all 50 states have been guessed correctly.
+4. **Completion**: The game ends automatically when all 50 states have been guessed correctly.
 
 ## Technologies Used
 
